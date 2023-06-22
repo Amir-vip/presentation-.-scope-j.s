@@ -66,3 +66,4 @@ forEach(): выполняет указанную функцию один раз 
 Примеры:
 javascriptCopy code
 let numbers = [1, 2, 3, 4, 5]; let sum = numbers.reduce((total, num) => total + num, 0); // 15 numbers.forEach(num => console.log(num)); // Выводит каждый элемент массива# presentation-arr-js
+# presentation-arr
